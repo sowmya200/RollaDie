@@ -1,6 +1,7 @@
 # appthree
 
 A new Flutter project.
+```dart
 
 ## Getting Started
 
